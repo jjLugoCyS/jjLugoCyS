@@ -14,8 +14,8 @@ To apply my cybersecurity knowledge as an analyst to protect and enhance the sec
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/jjLugoCyS/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>|
 | Vulnerability Management | <a href="https://github.com/jjLugoCyS/Vulnerability-Management/tree/main">Vulnerability Management</a>|
-<!--| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| IDS/Snort Network Monitoring         | <a href="https://github.com/jjLugoCyS/IDS-Snort-Network-Monitoring">SOC Automation Lab</a>|
+<!--| Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|-->
 
