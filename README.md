@@ -56,4 +56,4 @@ To apply my cybersecurity knowledge as an analyst to protect and enhance the sec
 - <a href="https://github.com/jjLugoCyS/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>
 - <a href="https://github.com/jjLugoCyS/Vulnerability-Management/tree/main">Vulnerability Management</a>
 - <a href="https://github.com/jjLugoCyS/IDS-Snort-Network-Monitoring">IDS/Snort Network Monitoring </a>
-- a href="https://github.com/jjLugoCyS/Wazuh-to-SOAR-Implementation">Wazuh to SOAR Implementation </a>
+- <a href="https://github.com/jjLugoCyS/Wazuh-to-SOAR-Implementation">Wazuh to SOAR Implementation </a>
