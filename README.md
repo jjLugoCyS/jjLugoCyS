@@ -16,7 +16,7 @@ To apply my cybersecurity knowledge as an analyst to protect and enhance the sec
 | Vulnerability Management | <a href="https://github.com/jjLugoCyS/Vulnerability-Management/tree/main">Vulnerability Management</a>|
 | IDS/Snort Network Monitoring | <a href="https://github.com/jjLugoCyS/IDS-Snort-Network-Monitoring">IDS/Snort Network Monitoring </a>|
 | Wazuh to SOAR Implementation | <a href="https://github.com/jjLugoCyS/Wazuh-to-SOAR-Implementation">Wazuh to SOAR Implementation </a>|
-| SOAR EDR                  | <a href="https://https://github.com/jjLugoCyS/SOAR-EDR">SOAR EDR </a>|
+| SOAR EDR                  | <a href="https://github.com/jjLugoCyS/SOAR-EDR">SOAR EDR </a>|
 <!--| Scripting and Automation for Threat Mitigation | SOC Automation Lab|-->
 
 ## Tools
