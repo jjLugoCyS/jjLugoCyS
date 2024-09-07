@@ -17,7 +17,7 @@ To apply my cybersecurity knowledge as an analyst to protect and enhance the sec
 | IDS/Snort Network Monitoring | <a href="https://github.com/jjLugoCyS/IDS-Snort-Network-Monitoring">IDS/Snort Network Monitoring </a>|
 | Wazuh to SOAR Implementation | <a href="https://github.com/jjLugoCyS/Wazuh-to-SOAR-Implementation">Wazuh to SOAR Implementation </a>|
 | SOAR EDR                  | <a href="https://github.com/jjLugoCyS/SOAR-EDR">SOAR EDR </a>|
-<!--| Scripting and Automation for Threat Mitigation | SOC Automation Lab|-->
+| Active Directory Monitoting | <a href="https://github.com/jjLugoCyS/Active-Directory">Active Directory </a> |
 
 ## Tools
 <!--[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]-->
@@ -58,3 +58,4 @@ To apply my cybersecurity knowledge as an analyst to protect and enhance the sec
 - <a href="https://github.com/jjLugoCyS/IDS-Snort-Network-Monitoring">IDS/Snort Network Monitoring </a>
 - <a href="https://github.com/jjLugoCyS/Wazuh-to-SOAR-Implementation">Wazuh to SOAR Implementation </a>
 - <a href="https://https://github.com/jjLugoCyS/SOAR-EDR">SOAR EDR </a>
+<a href="https://github.com/jjLugoCyS/Active-Directory">Active Directory </a>
